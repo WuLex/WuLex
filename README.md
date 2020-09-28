@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+🌱  Hi, I am Lex.   
+![github stats](https://github-readme-stats.vercel.app/api?username=Wulex&show_icons=true)
+![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=Wulex)    
