@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **WuLex/Wulex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,6 +15,9 @@ Here are some ideas to get you started:
 -->
 
 
-🌱  Hi, I am Lex.   
+### 🌱 Hi, I am Lex. 👋
+ 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Wulex&show_icons=true)
 ![主要使用语言](https://github-readme-stats.vercel.app/api/top-langs/?username=Wulex)    
+
+![Wulex's github stats](https://github-readme-stats.vercel.app/api?username=Wulex&count_private=true)
