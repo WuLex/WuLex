@@ -1,6 +1,3 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/WuLex/UsefulPicture/c190187263017ed24c138979d1954679f613c096/websource/lex.svg" alt="吴" />
-</h1>
 <!--
 **WuLex/Wulex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/WuLex/UsefulPicture/c190187263017ed24c138979d1954679f613c096/websource/lex.svg" alt="吴" />
+</h1>
 
 ### 🌱 Hi, I am Lex. 👋
  
