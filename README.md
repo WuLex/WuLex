@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/WuLex/UsefulPicture/c190187263017ed24c138979d1954679f613c096/websource/lex.svg" alt="吴" />
+  <img src="https://raw.githubusercontent.com/WuLex/UsefulPicture/33b45fdc0c733af3748b392a56a11be6b9d828aa/websource/lex.svg" alt="吴" />
 </h1>
 
 ### 🌱 Hi, I am Lex. 👋
