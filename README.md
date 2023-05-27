@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 
 <span>
-  <img height="220px" src="https://github-readme-stats.vercel.app/api?username=Wulex&show_icons=true&locale=cn&text_color=000&icon_color=fff&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></span>
+  <img height="220px" src="https://github-readme-stats.vercel.app/api?username=Wulex&count_private=true&show_icons=true&locale=cn&text_color=000&icon_color=fff&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /></span>
 <span>
-<img height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wulex&locale=cn&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+<img height="220px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wulex&count_private=true&locale=cn&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
 </span>
 
 <h3 align="left">语言及工具(Languages and Tools):</h3>
